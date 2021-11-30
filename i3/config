@@ -219,7 +219,7 @@ bindsym $mod+r mode "resize"
 # }
 
 
-bindsym $mod+Shift+x exec --no-startup-id "~/.config/i3/i3lock-fancy-multimonitor/lock --blur=30x30"
+bindsym $mod+Shift+x exec --no-startup-id "~/.config/i3/i3lock-fancy-multimonitor/lock --blur=0x20"
 
 # Window Colours
 #                         border  background text    indicator
